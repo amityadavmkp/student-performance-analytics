@@ -258,8 +258,8 @@ git commit -m "Initial commit: Student Performance Analytics System"
 # 4. Set the main branch
 git branch -M main
 
-# 5. Link your GitHub remote repository (replace with your repo URL)
-git remote add origin https://github.com/your-username/Student-Performance-Analytics.git
+# 5. Link your GitHub remote repository
+git remote add origin https://github.com/amityadavmkp/student-performance-analytics
 
 # 6. Push to GitHub
 git push -u origin main
