@@ -427,5 +427,5 @@ The **Student Performance Analytics System** fully satisfies all academic projec
 ## 17. GitHub Repository Link
 
 - **Repository Name**: `Student-Performance-Analytics`
-- **GitHub URL**: `https://github.com/your-username/Student-Performance-Analytics` *(Replace with your actual profile link upon repository creation)*
+- **GitHub URL**: `https://github.com/amityadavmkp/student-performance-analytics` *(Replace with your actual profile link upon repository creation)*
 - **License**: MIT License / Open Academic Use
